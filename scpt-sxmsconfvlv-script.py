@@ -3,7 +3,6 @@ import pandas as pd
 import importlib
 
 # Initial variables declaration
-#filepath = "C:\\Users\\jcarandang.CSCMWS\\Desktop\\SXMSCONFVLV Data.xlsx"
 module_name = "scpt-custom-module"
 mod = importlib.import_module(module_name)
 

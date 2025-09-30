@@ -2,7 +2,6 @@ import pandas as pd
 import importlib
 
 # Read XL file
-#filepath = "C:\\Users\\jcarandang.CSCMWS\\Desktop\\SXMSINTERFACE Data.xlsx"
 module_name = "scpt-custom-module"
 mod = importlib.import_module(module_name)
 
